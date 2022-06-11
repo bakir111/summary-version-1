@@ -4,7 +4,7 @@ body{
     font-size: 15px;/*размер строки*/
     font-weight: 600px;/*жирность строки*/
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;/*стилистика строки */
-   
+    width: auto;
    
 }
 a{
@@ -58,10 +58,12 @@ a:active{
 
 }
 input{
+    width:auto;
    padding:5px;
     border-radius:20px;
 }
 .input_textare{
+    width:auto;
     padding:5px;
     border-radius:20px;
 }
